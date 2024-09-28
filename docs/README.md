@@ -30,6 +30,7 @@ The [[Contributing.md]] document provides information useful to DAO members who 
 The [CONTRIBUTING.md](CONTRIBUTING.md) file should be located at the root of this repository or the top level of the /docs/ directory.
 -->
 
+<!--
 ## Resources
 
 Various assets related to SuperBenefit's governance are stored within this repository and organized by type.
@@ -41,9 +42,10 @@ The [/agreements/](/agreements/readme.md) directory contains agreements derived 
 ### [Policies](policies/readme.md)
 
 The [/policies/](policies/readme.md) directory contains policies derived from approved agreements, or otherwise created by roles with delegated policymaking authority.
+-->
 
----
-<!-- 
+<!--
+--- 
 ## Links
 List important links (such as your organization's social platforms, website, workspaces, etc.) here.
 -->

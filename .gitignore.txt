@@ -1,0 +1,11 @@
+# ignore environment files
+.env
+
+# ignore vscode config
+.vscode/
+
+# ignore Obsidian Trash
+.trash/
+
+# ignore Obsidian config
+.obsidian/

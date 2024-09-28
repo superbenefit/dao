@@ -1,6 +1,6 @@
 
 .env
 
-.obsidian/
-
 .trash/
+
+.obsidian/

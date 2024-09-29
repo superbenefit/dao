@@ -30,25 +30,23 @@ The [[Contributing.md]] document provides information useful to DAO members who 
 The [CONTRIBUTING.md](CONTRIBUTING.md) file should be located at the root of this repository or the top level of the /docs/ directory.
 -->
 
-<!--
 ## Resources
 
 Various assets related to SuperBenefit's governance are stored within this repository and organized by type.
 
-### [Agreements](/agreements/readme.md)
+<!-- ### [Agreements](/agreements/readme.md)
 
-The [/agreements/](/agreements/readme.md) directory contains agreements derived from proposals approved by SuperBenefit governance.
+The [/agreements/](/agreements/readme.md) directory contains agreements derived from proposals approved by SuperBenefit governance. -->
 
 ### [Policies](policies/readme.md)
 
 The [/policies/](policies/readme.md) directory contains policies derived from approved agreements, or otherwise created by roles with delegated policymaking authority.
--->
 
-<!--
 --- 
+
 ## Links
-List important links (such as your organization's social platforms, website, workspaces, etc.) here.
--->
+
+- [SuperBenefit Snapshot Voting Space](https://snapshot.org/#/superbenefit.eth)
 
 <!-- Please Do Not Remove --!
 This repository is based on a template originally created by [rathermercurial.eth](https://rathermercurial.eth.limo/), using open-source content from:

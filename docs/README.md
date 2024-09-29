@@ -15,8 +15,10 @@ To add foundational documents, create a Markdown (.md) file containing the text 
 ## Governance Guides
 
 The /docs/ directory contains miscellaneous documents related to SuperBenefit governance, such as the code of conduct and this readme document.
-<!--
 
+- The [Committment to Accountability](/docs/code_of_conduct.md) (also known as the *Code of Conduct*) conveys SuperBenefit's social contract regarding the conduct of members within DAO spaces, including its own communication channels, social media, discussion spaces, and those of its network peers.
+
+<!--
 ### [Governance.md](governance.md)
 
 The [Governance.md](GOVERNANCE.md) document describes the process by which changes to this repository are reviewed and (conditionally) accepted.
@@ -42,7 +44,7 @@ The [/agreements/](/agreements/readme.md) directory contains agreements derived 
 
 The [/policies/](policies/readme.md) directory contains policies derived from approved agreements, or otherwise created by roles with delegated policymaking authority.
 
---- 
+---
 
 ## Links
 

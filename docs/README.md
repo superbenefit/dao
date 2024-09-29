@@ -15,8 +15,10 @@ To add foundational documents, create a Markdown (.md) file containing the text 
 ## Governance Guides
 
 The /docs/ directory contains miscellaneous documents related to SuperBenefit governance, such as the code of conduct and this readme document.
-<!--
 
+- The [Committment to Accountability](/docs/code_of_conduct.md) (also known as the *Code of Conduct*) conveys SuperBenefit's social contract regarding the conduct of members within DAO spaces, including its own communication channels, social media, discussion spaces, and those of its network peers.
+
+<!--
 ### [Governance.md](governance.md)
 
 The [Governance.md](GOVERNANCE.md) document describes the process by which changes to this repository are reviewed and (conditionally) accepted.
@@ -30,25 +32,23 @@ The [[Contributing.md]] document provides information useful to DAO members who 
 The [CONTRIBUTING.md](CONTRIBUTING.md) file should be located at the root of this repository or the top level of the /docs/ directory.
 -->
 
-<!--
 ## Resources
 
 Various assets related to SuperBenefit's governance are stored within this repository and organized by type.
 
-### [Agreements](/agreements/readme.md)
+<!-- ### [Agreements](/agreements/readme.md)
 
-The [/agreements/](/agreements/readme.md) directory contains agreements derived from proposals approved by SuperBenefit governance.
+The [/agreements/](/agreements/readme.md) directory contains agreements derived from proposals approved by SuperBenefit governance. -->
 
 ### [Policies](policies/readme.md)
 
 The [/policies/](policies/readme.md) directory contains policies derived from approved agreements, or otherwise created by roles with delegated policymaking authority.
--->
 
-<!--
---- 
+---
+
 ## Links
-List important links (such as your organization's social platforms, website, workspaces, etc.) here.
--->
+
+- [SuperBenefit Snapshot Voting Space](https://snapshot.org/#/superbenefit.eth)
 
 <!-- Please Do Not Remove --!
 This repository is based on a template originally created by [rathermercurial.eth](https://rathermercurial.eth.limo/), using open-source content from:

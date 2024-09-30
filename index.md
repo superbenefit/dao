@@ -1,4 +1,4 @@
-# SuperBenefit Governance Documentation
+# DAO Governance Documentation
 
 This repository contains important documents related to SuperBenefit governance, such as its agreements and policies.
 
@@ -6,12 +6,10 @@ This repository contains important documents related to SuperBenefit governance,
 
 Various records related to SuperBenefit's governance are stored within the /resources directory and organized by type.
 
-- [Resources Directory](/resources/index.md)
+- [Resources Directory](/resources/)
 
 ---
 
 ## Links
 
 - [SuperBenefit Snapshot Voting Space](https://snapshot.org/#/superbenefit.eth)
-
-- [https://github.com/metagov/constitution-template](https://github.com/metagov/constitution-template)

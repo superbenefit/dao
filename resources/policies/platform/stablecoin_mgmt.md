@@ -1,9 +1,5 @@
 ---
 title: Stablecoin Management Policy
-slug: stablecoin_mgmt
-description: Authority to manage treasury stablecoins
-domain: administration
-subdomain: treasury
 source: https://snapshot.org/#/superbenefit.eth/proposal/QmPj8MMEtqyKmPTZMJAMhfJGDRKmPHtdDybuBKhfr6VQyf
 owner: Treasury workstream steward
 ---

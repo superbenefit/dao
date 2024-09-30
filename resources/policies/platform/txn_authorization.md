@@ -1,9 +1,5 @@
 ---
 title: Transaction Authorization Policy
-description: Authorization requirements for treasury transactions
-slug: txn_authorization
-subdomain: treasury
-domain: administration
 source:
 owner: Treasurer
 ---

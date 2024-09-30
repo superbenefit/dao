@@ -4,7 +4,7 @@ Governance resources, like proposals and policies are stored here in the /resour
 
 ## Policies
 
-Roles created by roles with delegated policymaking authority are recorded in the /policies directory.
+Policies created by roles with delegated policymaking authority are recorded in the /policies directory.
 
 - [Policy Directory](/resources/policies/index.md)
 

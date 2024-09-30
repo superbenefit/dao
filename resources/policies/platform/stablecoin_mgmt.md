@@ -2,9 +2,14 @@
 title: Stablecoin Management Policy
 source: https://snapshot.org/#/superbenefit.eth/proposal/QmPj8MMEtqyKmPTZMJAMhfJGDRKmPHtdDybuBKhfr6VQyf
 owner: Treasury workstream steward
+tags:
+  - Policies
+  - Treasury
 ---
 
 # Stablecoin Management Policy
+
+Source: [SBP1: Authority to convert and manage balance of stables](../../proposals/SBP1.md)
 
 This policy grants the Treasury Squad the authority convert and manage a balance of stablecoins in the SuperBenefit Treasury. The parameters of that authority are:
 

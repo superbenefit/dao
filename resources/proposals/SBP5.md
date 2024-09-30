@@ -2,9 +2,11 @@
 tags:
   - Proposals
   - Rev1
+  - Metagov
 proposal-status:
   - Passed
 proposal-type:
+  - Metagovernance
   - Other
 proposal-author:
   - michellebaldwin.eth

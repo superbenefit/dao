@@ -2,6 +2,7 @@
 tags:
   - Proposals
   - Rev1
+  - Operations
 proposal-status:
   - Passed
 proposal-type:

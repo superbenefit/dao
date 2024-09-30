@@ -2,6 +2,7 @@
 tags:
   - Proposals
   - Rev0
+  - Treasury
 proposal-status:
   - Passed
 proposal-type:

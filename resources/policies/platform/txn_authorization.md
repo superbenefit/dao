@@ -1,7 +1,10 @@
 ---
 title: Transaction Authorization Policy
-source:
+source: 
 owner: Treasurer
+tags:
+  - Policies
+  - Treasury
 ---
 
 # Transaction Authorization Policy

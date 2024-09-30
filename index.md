@@ -11,14 +11,13 @@ Foundational Documents are used to record and communicate the most important inf
 
 To add foundational documents, create a Markdown (.md) file containing the text of your document and add it to the root folder of this repository. Then add a description of your document under a pretty-linked 3rd-level heading below.
 -->
-
+<!--
 ## Governance Guides
 
 The /docs/ directory contains miscellaneous documents related to SuperBenefit governance, such as the code of conduct and this readme document.
 
 - The [Committment to Accountability](/docs/code_of_conduct.md) (also known as the *Code of Conduct*) conveys SuperBenefit's social contract regarding the conduct of members within DAO spaces, including its own communication channels, social media, discussion spaces, and those of its network peers.
 
-<!--
 ### [Governance.md](governance.md)
 
 The [Governance.md](GOVERNANCE.md) document describes the process by which changes to this repository are reviewed and (conditionally) accepted.
@@ -30,20 +29,14 @@ The GOVERNANCE.md file should be located at the root of this repository or the t
 The [[Contributing.md]] document provides information useful to DAO members who wish to contribute to this repository.
 
 The [CONTRIBUTING.md](CONTRIBUTING.md) file should be located at the root of this repository or the top level of the /docs/ directory.
+
 -->
-<!--
-## Resources
+## Governance Resources
 
-Various assets related to SuperBenefit's governance are stored within this repository and organized by type.
+Various records related to SuperBenefit's governance are stored within the /resources directory and organized by type.
 
- ### [Agreements](/agreements/readme.md)
+- [Resources Directory](/resources/index.md)
 
-The [/agreements/](/agreements/readme.md) directory contains agreements derived from proposals approved by SuperBenefit governance.
-
-### [Policies](policies/readme.md)
-
-The [/policies/](policies/readme.md) directory contains policies derived from approved agreements, or otherwise created by roles with delegated policymaking authority.
--->
 ---
 
 ## Links

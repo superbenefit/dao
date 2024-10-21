@@ -9,3 +9,6 @@
 
 # ignore Obsidian config
 .obsidian/
+
+# ignore flowershow
+.obsidian/plugins/flowershow/

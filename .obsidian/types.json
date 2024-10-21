@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "proposal-type": "multitext",
+    "proposal-nonce": "number",
+    "proposal-author": "multitext",
+    "proposal-status": "multitext"
+  }
+}

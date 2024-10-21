@@ -1,1 +1,15 @@
-.trash/index.md
+# ignore environment files
+.env
+.obsidian\plugins\flowershow\data.json
+
+# ignore vscode config
+.vscode/
+
+# ignore Obsidian Trash
+.trash/
+
+# ignore Obsidian config
+.obsidian/
+
+# ignore flowershow
+.obsidian/plugins/flowershow/
